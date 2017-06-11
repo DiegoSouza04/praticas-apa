@@ -2,10 +2,6 @@ package pratica01exercicio04;
 
 import java.util.Random;
 
-/**
- *
- * @author 314112699
- */
 public class Exercicio04 {
 
     int[] vetor = new int[10];

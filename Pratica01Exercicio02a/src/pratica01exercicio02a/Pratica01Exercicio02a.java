@@ -3,10 +3,6 @@ package pratica01exercicio02a;
 
 import java.util.Scanner;
 
-/**
- *
- * @author dsouz
- */
 public class Pratica01Exercicio02a {
 
     public static void main(String[] args) {

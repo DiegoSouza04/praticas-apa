@@ -2,10 +2,6 @@ package pratica01exercicio03;
 
 import java.util.Random;
 
-/**
- *
- * @author 314112699
- */
 public class Exercicio03 {
 
     int vet[] = new int[10];

@@ -1,10 +1,6 @@
 
 package pratica01exercicio03;
 
-/**
- *
- * @author 314112699
- */
 public class Pratica01Exercicio03 {
 
     public static void main(String[] args) {
